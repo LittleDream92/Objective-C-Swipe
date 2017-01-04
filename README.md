@@ -5,11 +5,6 @@
 ![这里写图片描述](http://img.blog.csdn.net/20170104105814481?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZmFueGlhb21lbmc5Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
-需求：
-
-1、滑动控件，控件动画移动；
-2、点击控件，push进入该控件对应的详细页面；
-
 本demo选取固定的位置rect。
 首先，初始化控件的位置，存储成Array列表：
 
